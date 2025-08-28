@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8c9410c9.css",
+    "main.js": "/static/js/main.619a8204.js",
+    "static/media/profileBW.jpeg": "/static/media/profileBW.7afa567c43127e8ab65d.jpeg",
+    "static/media/Hynek Cholasta - CV.pdf": "/static/media/Hynek Cholasta - CV.1777288ca91555b67735.pdf",
+    "static/media/threads-bot.JPG": "/static/media/threads-bot.b99039e34933b21b5659.JPG",
+    "static/media/chatbot.png": "/static/media/chatbot.f6b62c37ee1d369d9255.png",
+    "static/media/RE_photo_website.JPG": "/static/media/RE_photo_website.05a1db3e713b0d89b22a.JPG",
+    "index.html": "/index.html",
+    "main.8c9410c9.css.map": "/static/css/main.8c9410c9.css.map",
+    "main.619a8204.js.map": "/static/js/main.619a8204.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c9410c9.css",
+    "static/js/main.619a8204.js"
+  ]
+}
